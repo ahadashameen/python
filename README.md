@@ -22,8 +22,3 @@ else:
        n2 = nth
        count += 1
 
-
-List1=[2,-4,-5]
-For num in List1:
-     If num >=0:
-         print(num)
